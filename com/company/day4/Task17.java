@@ -1,4 +1,4 @@
-package com.company;
+package com.company.day4;
 
 import javax.swing.text.Style;
 import java.util.Scanner;
